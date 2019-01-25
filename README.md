@@ -45,7 +45,3 @@ Como principales herramientas de organización se usaron Trello y la pizara con 
 Páginas que sirvieron de ayuda en la búsqueda de referentes
 1- https://www.siteinspire.com
 2- https://www.awwwards.com
-
-
-
-Contraer 
